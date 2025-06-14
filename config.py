@@ -1,7 +1,8 @@
 # config.py
 
 BOT_TOKEN = "7342216134:AAEl99PlNXo56Vl0DDuSXC04Wq49IGsb2cw"  # Replace with your actual Telegram bot token
-
+# config.py
+ADMIN_IDS = [123456789]  # Replace with your Telegram user ID
 DB_NAME = "youtube_bot.db"         # SQLite database file
 
 MAX_VIDEO_LIMIT = 5               # Max videos a user can submit
